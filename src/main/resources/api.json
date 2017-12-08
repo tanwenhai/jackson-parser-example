@@ -1,0 +1,124 @@
+[
+  {
+    "status": 200,
+    "body": {
+      "suggestion": {
+        "keywords": {
+
+        },
+        "cities": {
+
+        }
+      },
+      "info": "OK",
+      "status": "1",
+      "count": "4",
+      "pois": [
+        {
+          "typecode": "080503",
+          "biz_type": {
+
+          },
+          "id": "B013C16BMA",
+          "biz_ext": {
+
+          },
+          "address": "武隆南路延伸线交口往北200米路东",
+          "name": "开心草莓采摘园",
+          "type": "体育休闲服务;休闲场所;休闲园",
+          "distance": "2235",
+          "tel": {
+
+          },
+          "location": "116.483231,39.290303"
+        },
+        {
+          "typecode": "080308",
+          "biz_type": {
+
+          },
+          "id": "B0FFFZ425C",
+          "biz_ext": {
+
+          },
+          "address": "宜昌南路185号",
+          "name": "三星天翔鸟网吧",
+          "type": "娱乐场所;网吧",
+          "distance": "2944",
+          "tel": {
+
+          },
+          "location": "116.496649,39.304055"
+        },
+        {
+          "typecode": "080308",
+          "biz_type": {
+
+          },
+          "id": "B013C0IMLS",
+          "biz_ext": {
+
+          },
+          "address": "宜昌南路388号附近",
+          "name": "梦想网吧",
+          "type": "娱乐场所;网吧",
+          "distance": "2975",
+          "tel": {
+
+          },
+          "location": "116.496564,39.304317"
+        },
+        {
+          "typecode": "080000",
+          "biz_type": {
+
+          },
+          "id": "B0FFFGQVOF",
+          "biz_ext": {
+
+          },
+          "address": "宜昌南路173号",
+          "name": "腾宇网络会所",
+          "type": "娱乐场所;网吧",
+          "distance": "2989",
+          "tel": {
+
+          },
+          "location": "116.496546,39.304447"
+        }
+      ],
+      "infocode": "10000"
+    },
+    "header": {
+      "Content-Length": 1145,
+      "Content-Type": "application/json;charset=UTF-8"
+    }
+  },
+  {
+    "status": 200,
+    "body": {
+      "suggestion": {
+        "keywords": {
+
+        },
+        "cities": {
+
+        }
+      },
+      "info": "OK",
+      "status": "1",
+      "count": "0",
+      "pois": {
+
+      },
+      "infocode": "10000"
+    },
+    "header": {
+      "Content-Length": 108,
+      "Content-Type": "application/json;charset=UTF-8"
+    }
+  }
+]
+
+
+
